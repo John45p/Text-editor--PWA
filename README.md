@@ -47,3 +47,5 @@ THEN I should have my static assets pre cached upon loading along with subsequen
 WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 ```
+
+See the deployed applciation on Heroku: https://pure-sea-58236.herokuapp.com/
